@@ -7,7 +7,7 @@
 </div>
 
 ## 👋 hello
-
+This Project has been forked from roboflow as experimental learning project , all creations and script credits are given to orignal authers , creates for testing custom football video from the youtube video.
 In sports, every centimeter and every second matter. That's why Roboflow decided to use sports as a testing ground to push our object detection, image segmentation, keypoint detection, and foundational models to their limits. This repository contains reusable tools that can be applied in sports and beyond.
 
 ## 🥵 challenges
